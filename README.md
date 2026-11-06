@@ -18,4 +18,4 @@ Dataset downloaded from kaggle: https://www.kaggle.com/datasets/hasibur013/diabe
 - Conclusions and Limitations
 
 ## Disclaimer
-- This project is a personal project made with the help of AI tools in order to review code, understand the methodology and problem solving steps in machine learning projects, and it is purely educational not for medical use.
+This project is a personal project made with the help of AI tools in order to review code, understand the methodology and problem solving steps in machine learning projects, and it is purely educational not for medical use.
