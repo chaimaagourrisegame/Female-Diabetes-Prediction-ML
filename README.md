@@ -17,4 +17,5 @@ Dataset downloaded from kaggle: https://www.kaggle.com/datasets/hasibur013/diabe
 - Reducing Overfitting
 - Conclusions and Limitations
 
-- This project is a personal project made with the help of AI tools in order to review code, understand the methodology and problem solving steps in machine learning projects
+## Disclaimer
+- This project is a personal project made with the help of AI tools in order to review code, understand the methodology and problem solving steps in machine learning projects, and it is purely educational not for medical use.
