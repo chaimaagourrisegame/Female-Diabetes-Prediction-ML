@@ -2,7 +2,7 @@
 A machine learning project comparing models to predict diabetes outcomes.
 
 ## Problem
-We want to predict wether a female patient has diabetes (1) or not (0). 
+We want to predict whether a female patient has diabetes (1) or not (0). 
 ## Data Source
 Dataset downloaded from kaggle: https://www.kaggle.com/datasets/hasibur013/diabetes-dataset
 
